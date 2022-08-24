@@ -20,9 +20,9 @@
   <img align="center" alt="Bele-VC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Bele-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Bele-Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
-  <img align="right" alt="Bele-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/d4961d4baf08a072c020f77c7f633b9a.gif">
+  <img align="right" alt="Bele-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/83742838/186471754-35841279-28b5-4390-abf1-3a9881ba5b0b.gif">
 </div>
-  
+
   ##
  
 <div> 
